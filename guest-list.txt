@@ -1,0 +1,3 @@
+Markus, attending, 111 - 2021-10-23
+Anna, not attending, 112 - 2021-10-23
+Thomas, unknown, 113 - 2021-10-23
